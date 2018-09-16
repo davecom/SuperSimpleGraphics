@@ -24,7 +24,8 @@ void draw_line(int x1, int y1, int x2, int y2, const char *color)
 ```
 Draws a line.
 
-```Cvoid write_graphics(const char *name)
+```C
+void write_graphics(const char *name)
 ```
 Writes an svg file with the filename `name` and the `.svg` extension. Frees any used memory and closes the file.
 
