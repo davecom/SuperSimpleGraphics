@@ -31,8 +31,14 @@ Writes an svg file with the filename `name` and the `.svg` extension. Frees any 
 
 ## Examples
 So far there are two simple examples included in this directory:
-- `france_flag.c` draws the French flag.
-- `sierpinski.c` draws sierpinski triangles
+- `france_flag.c` draws the French flag. 
+
+![French Flag](flag.svg)
+
+- `sierpinski.c` draws sierpinski triangles 
+
+![Sierpinski Triangles](sierpinski.svg)
+
 Running them is as simple as:
 ```bash
 gcc france_flag.c
