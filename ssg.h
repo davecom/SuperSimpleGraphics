@@ -25,6 +25,10 @@
 #ifndef ssg_include
 #define ssg_include
 
+#ifdef _WIN32
+#define _CRT_SECURE_NO_WARNINGS
+#endif
+
 #include <stdio.h>
 #include <stdarg.h>
 #include <stdlib.h>
