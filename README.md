@@ -1,5 +1,5 @@
 # SuperSimpleGraphics
-This is an extremely simplistic SVG generating single header file C library appropriate for "intro to programming" classes in C or C++. Using it is as simple as dropping "ssg.h" into your project and then `#include "ssg.h"` in your source file. Right now it is a hack done in a couple hours with two example programs as a proof of concept, so there's not yet a lot of error checking or features.
+This is an extremely simplistic SVG generating single header file C library appropriate for "intro to programming" classes in C or C++. Using it is as simple as dropping `ssg.h` into your project and then `#include "ssg.h"` in your source file. Right now it is a hack done in a couple hours with two example programs as a proof of concept, so there's not yet a lot of error checking or features.
 
 ## Documentation
 There are only five functions for now:
