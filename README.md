@@ -44,7 +44,7 @@ Running them is as simple as:
 gcc france_flag.c
 ./a.out
 ```
-Then a `.svg` file will be generated in the same directory. They have been tested with `clang` on macOS and `gcc` on GNU/Linux.
+Then a `.svg` file will be generated in the same directory. They have been tested with `clang` on macOS, `gcc` on GNU/Linux, and Visual C++ on Windows.
 
 ## License
 Licensed under the MIT license.
